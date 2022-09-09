@@ -1,7 +1,7 @@
 # InternetTestSpeedJS
 Internet Test Speed in Javascript.
-Estos son scripts de código realizados en Javascript que permiten realizar test de velocidad del servidor y el cliente.
-Para tal fin se ha usado como archivo de carga una imagen para las tres pruebas.
+Estos son scripts de código realizados en Javascript que permiten realizar test de velocidad de descarga del servidor.
+Para tal fin se ha usado un archivo de descarga para las tres pruebas.
 
 
 # Resultado de los test:
