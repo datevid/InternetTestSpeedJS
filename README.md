@@ -13,3 +13,10 @@ Para tal fin se ha usado como archivo de carga una imagen para las tres pruebas.
 
 ### test03.html
 - El resultado de los test se acerca a los valores esperados(Valores de 10.5Mbps en promedio).
+
+# Compara con los servicios en línea de Internet Speed Test Tools:
+- [cloudflare](https://speed.cloudflare.com/)
+- [Ookla Speedtest](https://www.speedtest.net/)
+- [Fast](https://fast.com/)
+- [TestMy.net](https://testmy.net/)
+- [mas servicios](https://geekflare.com/internet-speed-test-tools/)
